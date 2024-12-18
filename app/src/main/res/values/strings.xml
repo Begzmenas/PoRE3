@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoRE3</string>
+    <string name="connected_to_azure">Connected to Azure IoT Hub</string>
+    <string name="connection_failed">Connection failed: %1$s</string>
+</resources>
